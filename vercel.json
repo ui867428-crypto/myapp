@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "functions": {
+    "api/capture.js": {
+      "maxDuration": 10
+    }
+  }
+}
